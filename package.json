@@ -1,0 +1,26 @@
+{
+  "name": "NodeJs4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abinet18/NodeJs4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abinet18/NodeJs4/issues"
+  },
+  "homepage": "https://github.com/Abinet18/NodeJs4#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "node-fetch": "^1.7.3",
+    "rxjs": "^5.5.6"
+  }
+}
